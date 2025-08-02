@@ -1,0 +1,4 @@
+C:\Users\zaidj\source\repos\BlackBall\obj\Debug\BlackBall.csproj.AssemblyReference.cache
+C:\Users\zaidj\source\repos\BlackBall\obj\Debug\BlackBall.Properties.Resources.resources
+C:\Users\zaidj\source\repos\BlackBall\obj\Debug\BlackBall.csproj.GenerateResource.cache
+C:\Users\zaidj\source\repos\BlackBall\obj\Debug\BlackBall.csproj.CoreCompileInputs.cache
