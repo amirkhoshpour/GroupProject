@@ -21,7 +21,9 @@ namespace BlackBall
         public override Card PlayCard(Suit leadSuit, Suit trumpSuit)
         {
             // TODO: Implement AI card selection logic
-            return Hand[0];
+            var selectedCard = Hand[0];
+            Hand.RemoveAt(0);
+            return selectedCard;
         }
     }
 
